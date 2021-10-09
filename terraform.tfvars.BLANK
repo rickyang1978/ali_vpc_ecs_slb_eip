@@ -1,0 +1,6 @@
+//RAM user access_key
+my_access_key = ""
+//RAM user secret_key
+my_secret_key = ""
+//SSH password for user root
+my_password = ""
